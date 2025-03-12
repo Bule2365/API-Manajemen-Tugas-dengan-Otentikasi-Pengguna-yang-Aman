@@ -123,4 +123,3 @@ Proyek ini dilisensikan di bawah MIT License. Anda bebas menggunakan, memodifika
 
 ## Penghargaan  
 Terima kasih kepada komunitas open-source dan kontributor yang telah membantu mempermudah pengembangan setiap harinya. Mari membangun sesuatu yang luar biasa bersama-sama! 🚀  
-```
