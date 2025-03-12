@@ -124,15 +124,3 @@ Proyek ini dilisensikan di bawah MIT License. Anda bebas menggunakan, memodifika
 ## Penghargaan  
 Terima kasih kepada komunitas open-source dan kontributor yang telah membantu mempermudah pengembangan setiap harinya. Mari membangun sesuatu yang luar biasa bersama-sama! 🚀  
 ```
-
----
-
-### Penjelasan
-1. **Judul dan Deskripsi**: Menggunakan bahasa yang menarik dan memotivasi.  
-2. **Fitur**: Menyoroti keunggulan utama proyek.  
-3. **Instalasi**: Disusun dengan langkah-langkah yang mudah dipahami.  
-4. **Endpoints**: Dokumentasi API yang jelas dengan contoh penggunaan.  
-5. **Kontribusi**: Memberi panduan untuk kontribusi dengan cara yang ramah.  
-6. **Lisensi**: Memberi tahu tentang kebebasan penggunaan kode.  
-
-README ini memberikan panduan lengkap kepada pengguna maupun kontributor, membuat proyek Anda lebih profesional dan menarik untuk digunakan atau dikembangkan lebih lanjut! 🚀
