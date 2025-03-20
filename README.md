@@ -15,7 +15,7 @@ Sebuah API RESTful yang ringan dan handal untuk mengelola tugas dengan autentika
 
 1. **Clone Repository**  
    ```bash
-   git clone https://github.com/username-anda/api-manajemen-tugas.git
+   git clone https://github.com/Bule2365/api-manajemen-tugas.git
    cd api-manajemen-tugas
    ```
 
